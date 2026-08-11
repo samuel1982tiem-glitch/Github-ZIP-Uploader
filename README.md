@@ -64,7 +64,7 @@ Contribuições são bem-vindas. Abra issues para bugs ou sugestões e envie pul
 
 ## Licença
 
-Este repositório não especifica uma licença por padrão. Adicione um arquivo `LICENSE` se quiser publicar com uma licença específica.
+Este projeto está licenciado sob a licença MIT — veja o arquivo `LICENSE` para detalhes.
 
 ---
 
