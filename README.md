@@ -1,5 +1,7 @@
 # Github ZIP Uploader
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Aplicação front-end (React + Vite + TypeScript) para validar caminhos e enviar arquivos ZIP para um repositório GitHub.
 
 **Principais funcionalidades**
