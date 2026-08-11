@@ -1,0 +1,6 @@
+{
+  "name": "GitHub ZIP Uploader",
+  "description": "Extract ZIP archives locally in the browser and upload files directly to GitHub repositories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
