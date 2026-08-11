@@ -68,4 +68,3 @@ Este projeto está licenciado sob a licença MIT — veja o arquivo `LICENSE` pa
 
 ---
 
-Se quiser, eu posso também adicionar um exemplo de fluxo de uso, screenshots ou um arquivo `env` com variáveis de exemplo.
